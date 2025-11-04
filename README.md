@@ -19,6 +19,20 @@ Includes LAN configurations, firewalls for security, and an external attacker si
 - Basic firewall rules  
 - Internet connectivity and attack simulation  
 
+### 🧭 Day 02 - Connecting Devices to Their Labels
+**Scenario:**
+A simulation showing how to connect different network devices — such as servers, computers, routers, and switches — using various types of cables.
+
+**Key Concepts Covered:**
+
+- Differences between cable types (Straight-through, Crossover, UTP, Fiber) and their appropriate use.
+
+- Understanding of interfaces and ports on different devices.
+
+- Introduction to Auto-MDIX and its role in simplifying cabling.
+
+- Measuring cable distances and choosing the right medium (copper vs. fiber).
+
 ---
 
 ## ⚙️ Tools & Technologies Used
@@ -38,11 +52,7 @@ Copy code
 
 ---
 
-## 📘 Future Labs (Coming Soon)
-- **Day 02:** Static and Dynamic Routing  
-- **Day 03:** VLAN Configuration and Inter-VLAN Routing  
-- **Day 04:** DHCP and DNS Setup  
-- **Day 05:** Firewall Rules and Security Policies  
+
 
 ---
 
