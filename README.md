@@ -42,20 +42,6 @@ A simulation showing how to connect different network devices — such as server
 
 ---
 
-## 📂 Folder Structure
-network-simulation/
-├── Day 01 Lab - Packet Tracer Introduction/
-│ └── Day 01 Lab - Packet Tracer Introduction.pkt
-
-yaml
-Copy code
-
----
-
-
-
----
-
 ## 👤 Author
 **Mugisha03**  
 💻 IT Professional | 🌍 Network Enthusiast | 🧩 Cisco Packet Tracer Learner  
