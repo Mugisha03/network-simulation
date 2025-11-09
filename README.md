@@ -24,14 +24,20 @@ Includes LAN configurations, firewalls for security, and an external attacker si
 A simulation showing how to connect different network devices — such as servers, computers, routers, and switches — using various types of cables.
 
 **Key Concepts Covered:**
-
-- Differences between cable types (Straight-through, Crossover, UTP, Fiber) and their appropriate use.
-
+-Differences between cable types (Straight-through, Crossover, UTP, Fiber) and their appropriate use.
 - Understanding of interfaces and ports on different devices.
-
 - Introduction to Auto-MDIX and its role in simplifying cabling.
-
 - Measuring cable distances and choosing the right medium (copper vs. fiber).
+
+### 🧭 Day 03 - OSI Model
+**Scenario:**
+A simulation showing how data moves between devices such as server, computer, routers, and switches.
+
+**Key Concepts Covered:**
+- Networking models  
+- OSI Model  
+- TCP/IP 
+ 
 
 ---
 
